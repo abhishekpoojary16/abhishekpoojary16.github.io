@@ -1,0 +1,89 @@
+In the age of post truth and endless facebook feeds people are lost in an information glut. Here’s an action plan for a new kind of media designed to separate the irrelevant from the relevant.
+
+Let me outline the philosophy of this project with an example. A friend of mine recently took up his masters in law. He has a keen interest and understanding of politics and governance.
+
+I ask two things of him - 
+
+Recommend books that he considers necessary reads in his subject of authority.
+
+Write a piece for me, on any topic of his choice. He tags his article with the concepts that his article encapsulates.
+
+His profile page tells primarily about two things : concepts / ideas that he has written about and the books that he recommends.
+
+****
+
+On the nature of articles and comments -
+
+The purpose of the medium is to propagate discourses not witticisms. Hence every article must satisfy the criterion for minimum number of words.
+
+The nature of comments must fall in either of two categories - view : You agree, why ? and counter view : you disagree, why ?
+
+The disagreeing faction together comprise a set of views that are contrary to a belief. 
+
+Every idea or at least whose nature allows it must have a counter view. Before further readings for an idea are endorsed, the counter views are presented in sight to the reader.
+
+Counter views and context form the backdrop of all articles on we media.
+
+****
+
+Nlp and clustering -
+
+Technology is the supplementary arm of we media. Subreddits are scraped for additional book recommendations on specific topics.
+
+The topics / concepts / ideas are clustered based on core attributes and linked to other clusters on related attributes or tropes.
+
+****
+
+What’s there for users -
+
+By participating in we media, the first advantage for the contributer is to improve her writing skills. 
+
+Second, and a more ambitious goal for the platform and the contributers is to identify the dominant world views going around. The counter views and the context aim to scrutinise the world views.
+
+****
+
+Statement of purpose -
+
+There is an inherent bias in every form of media currently available to masses. With the increasing use of AI in modern day recommender systems this bias seems to be growing unconstrained. 
+
+When we watch a video on youtube, the platform recommends us similar content. As we continue to watch similar videos this reinforces the AI’s opinion about our tastes, thus feeding us more of the same kind.
+
+This is an attempt to show the user ‘what is not’ alongside ‘what is’. An attempt to correct our own biases.
+
+****
+
+Points gathered from user feedback -
+
+1.
+
+We're predisposed towards the content we want to consume.
+It's not necessary that users are unaware of counter-views. They choose to ignore it.
+
+Solution - 
+
+Instead of showing a counter-view (a total opposite to user's view) can we show the user a centrist / middle view. 
+
+
+2.
+
+Stake for the user. Incentive to approach the platform.
+
+Solution -
+For an indian audience, show articles by relevancy and recency
+eg:
+Capitalism , in India 
+FDI norms in India.
+
+
+3.
+
+Visualising concepts graphically -
+
+This can be achieved using keywords. 
+Maximum keywords on an article will help you link it with maximum other articles.
+
+(A force directed graph on tv tropes scraped data) 
+
+
+ 
+
